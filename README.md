@@ -1,4 +1,4 @@
-# cse310-hello-world
+# hello-world
 Hello, World!
 
 # Overview
