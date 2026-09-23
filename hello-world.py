@@ -1,7 +1,7 @@
 import sys 
 import time
 
-def type_writer(text, delay=0.05):
+def type_writer(text, delay=0.1):
     for char in text:
         sys.stdout.write(char)
         sys.stdout.flush()
