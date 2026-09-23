@@ -10,3 +10,4 @@ def type_writer(text, delay=0.05):
 
 type_writer("Hello, World!")
 
+
