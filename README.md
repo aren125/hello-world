@@ -15,5 +15,5 @@ I devloped this project in Visual Studio Code.
 
 # Useful Websites
 
-* [W3 - Python Intro](https://www.w3schools.com/python/python_intro.asp)
-* [W3 - Git Intro](https://www.w3schools.com/git/)
+* [W3Schools - Python Intro](https://www.w3schools.com/python/python_intro.asp)
+* [W3Schools - Git Intro](https://www.w3schools.com/git/)
